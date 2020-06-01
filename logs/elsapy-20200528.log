@@ -1,0 +1,33 @@
+2020-05-28 09:52:54,744 - elsapy.elsclient - INFO - Module loaded.
+2020-05-28 09:52:55,147 - elsapy.elsentity - INFO - Module loaded.
+2020-05-28 09:52:55,147 - elsapy.utils - INFO - Module loaded.
+2020-05-28 09:52:55,147 - elsapy.elsprofile - INFO - Module loaded.
+2020-05-28 09:52:55,151 - elsapy.elsdoc - INFO - Module loaded.
+2020-05-28 09:52:55,151 - elsapy.elssearch - INFO - Module loaded.
+2020-05-28 09:52:57,010 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/35484493400
+2020-05-28 09:52:58,169 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/35484493400
+2020-05-28 09:52:58,181 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/35484493400 to file
+2020-05-28 09:52:59,732 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=au-id%2835484493400%29
+2020-05-28 09:53:02,233 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=au-id%2835484493400%29
+2020-05-28 09:53:04,643 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=au-id%2835484493400%29
+2020-05-28 09:53:07,148 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=au-id%2835484493400%29
+2020-05-28 09:53:09,793 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=100&count=25&query=au-id%2835484493400%29
+2020-05-28 09:53:10,982 - elsapy.utils - INFO - Converting prism:coverDate
+2020-05-28 15:05:08,196 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/35484493400
+2020-05-28 15:05:09,346 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/35484493400
+2020-05-28 15:05:09,358 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/35484493400 to file
+2020-05-28 15:05:10,517 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=au-id%2835484493400%29
+2020-05-28 15:05:13,120 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=au-id%2835484493400%29
+2020-05-28 15:05:15,858 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=au-id%2835484493400%29
+2020-05-28 15:05:18,534 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=au-id%2835484493400%29
+2020-05-28 15:05:21,147 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=100&count=25&query=au-id%2835484493400%29
+2020-05-28 15:05:22,475 - elsapy.utils - INFO - Converting prism:coverDate
+2020-05-28 15:16:01,001 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/35484493400
+2020-05-28 15:16:02,049 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/35484493400
+2020-05-28 15:16:02,052 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/35484493400 to file
+2020-05-28 15:16:03,050 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=au-id%2835484493400%29
+2020-05-28 15:16:05,658 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=au-id%2835484493400%29
+2020-05-28 15:16:08,253 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=au-id%2835484493400%29
+2020-05-28 15:16:10,792 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=au-id%2835484493400%29
+2020-05-28 15:16:13,340 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=100&count=25&query=au-id%2835484493400%29
+2020-05-28 15:16:14,626 - elsapy.utils - INFO - Converting prism:coverDate
