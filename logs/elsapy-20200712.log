@@ -1,0 +1,52 @@
+2020-07-12 13:19:18,331 - elsapy.elsclient - INFO - Module loaded.
+2020-07-12 13:19:20,374 - elsapy.elsentity - INFO - Module loaded.
+2020-07-12 13:19:20,376 - elsapy.utils - INFO - Module loaded.
+2020-07-12 13:19:20,377 - elsapy.elsprofile - INFO - Module loaded.
+2020-07-12 13:19:20,379 - elsapy.elsdoc - INFO - Module loaded.
+2020-07-12 13:19:20,382 - elsapy.elssearch - INFO - Module loaded.
+2020-07-12 13:19:21,621 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/6601972916
+2020-07-12 13:19:23,109 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/author/author_id/6601972916
+2020-07-12 13:19:23,115 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/author/author_id/6601972916 to file
+2020-07-12 13:19:25,811 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=au-id%286601972916%29
+2020-07-12 13:19:28,430 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=au-id%286601972916%29
+2020-07-12 13:19:30,885 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=au-id%286601972916%29
+2020-07-12 13:19:33,251 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=au-id%286601972916%29
+2020-07-12 13:19:34,562 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 13:51:29,694 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:32,216 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:34,602 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:37,148 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:39,649 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=100&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:42,061 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=125&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:44,483 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=150&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:46,946 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=175&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:49,547 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=200&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:51,907 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=225&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:54,437 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=250&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:56,814 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=275&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:51:59,230 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=300&count=25&query=title%28neuropsychological+evidence%29
+2020-07-12 13:52:00,488 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 14:24:17,696 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28Correlates+of+health-related+quality+of+life+in+patients+with+myocardial+infarction%3A+A+literature+review%29
+2020-07-12 14:24:19,093 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 14:24:55,051 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28%EC%97%AC%EC%84%B1%EB%85%B8%EC%9D%B8%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B0%95%EC%A0%90%EC%A4%91%EC%8B%AC+%ED%83%84%EB%A0%A5%EC%84%B1+%EC%A6%9D%EC%A7%84+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8+%ED%9A%A8%EA%B3%BC%29
+2020-07-12 14:26:03,260 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28Correlates+of+health-related+quality+of+life+in+patients+with+myocardial+infarction%3A+A+literature+review%29
+2020-07-12 14:26:04,532 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 14:26:05,959 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28%EC%97%AC%EC%84%B1%EB%85%B8%EC%9D%B8%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B0%95%EC%A0%90%EC%A4%91%EC%8B%AC+%ED%83%84%EB%A0%A5%EC%84%B1+%EC%A6%9D%EC%A7%84+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8+%ED%9A%A8%EA%B3%BC%29
+2020-07-12 14:26:27,071 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28Correlates+of+health-related+quality+of+life+in+patients+with+myocardial+infarction%3A+A+literature+review%29
+2020-07-12 14:26:28,244 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 14:26:44,306 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28%EC%97%AC%EC%84%B1%EB%85%B8%EC%9D%B8%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B0%95%EC%A0%90%EC%A4%91%EC%8B%AC+%ED%83%84%EB%A0%A5%EC%84%B1+%EC%A6%9D%EC%A7%84+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8+%ED%9A%A8%EA%B3%BC%29
+2020-07-12 14:27:02,238 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28Correlates+of+health-related+quality+of+life+in+patients+with+myocardial+infarction%3A+A+literature+review%29
+2020-07-12 14:27:03,891 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 14:27:16,088 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28%EC%97%AC%EC%84%B1%EB%85%B8%EC%9D%B8%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B0%95%EC%A0%90%EC%A4%91%EC%8B%AC+%ED%83%84%EB%A0%A5%EC%84%B1+%EC%A6%9D%EC%A7%84+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8+%ED%9A%A8%EA%B3%BC%29
+2020-07-12 14:27:36,359 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28Correlates+of+health-related+quality+of+life+in+patients+with+myocardial+infarction%3A+A+literature+review%29
+2020-07-12 14:27:37,456 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 14:27:49,436 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28Correlates+of+health-related+quality+of+life+in+patients+with+myocardial+infarction%3A+A+literature+review%29
+2020-07-12 14:27:50,595 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 14:28:42,169 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28Correlates+of+health-related+quality+of+life+in+patients+with+myocardial+infarction%3A+A+literature+review%29
+2020-07-12 14:28:43,330 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 14:28:56,919 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28Correlates+of+health-related+quality+of+life+in+patients+with+myocardial+infarction%3A+A+literature+review%29
+2020-07-12 14:28:58,033 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 14:29:36,614 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28%EC%97%AC%EC%84%B1%EB%85%B8%EC%9D%B8%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B0%95%EC%A0%90%EC%A4%91%EC%8B%AC+%ED%83%84%EB%A0%A5%EC%84%B1+%EC%A6%9D%EC%A7%84+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8+%ED%9A%A8%EA%B3%BC%29
+2020-07-12 14:29:59,305 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28Correlates+of+health-related+quality+of+life+in+patients+with+myocardial+infarction%3A+A+literature+review%29
+2020-07-12 14:30:00,459 - elsapy.utils - INFO - Converting prism:coverDate
+2020-07-12 14:30:01,457 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=title%28%EC%97%AC%EC%84%B1%EB%85%B8%EC%9D%B8%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B0%95%EC%A0%90%EC%A4%91%EC%8B%AC+%ED%83%84%EB%A0%A5%EC%84%B1+%EC%A6%9D%EC%A7%84+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8+%ED%9A%A8%EA%B3%BC%29
